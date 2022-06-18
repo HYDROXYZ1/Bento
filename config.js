@@ -157,19 +157,19 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'backpack',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Meet',
+					link: 'meet.google.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Classroom',
+					link: 'https://classroom.google.com/u/0/h',
 				},
 				{
-					name: 'Trello',
+					name: 'Khanacademy',
 					link: 'https://www.trello.com',
 				},
 				{
