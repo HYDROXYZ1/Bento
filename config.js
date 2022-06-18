@@ -169,11 +169,11 @@ const CONFIG = {
 					link: 'https://classroom.google.com/u/0/h',
 				},
 				{
-					name: 'Khanacademy',
+					name: 'blah',
 					link: 'https://www.trello.com',
 				},
 				{
-					name: 'Slack',
+					name: 'blah',
 					link: 'https://www.slack.com',
 				},
 			],
