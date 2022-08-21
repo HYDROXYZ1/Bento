@@ -144,7 +144,7 @@ const CONFIG = {
 				},
 				{
 					name: 'vibe',
-					link: '',
+					link: 'https://open.spotify.com/playlist/173kVLrmQ1g08gngdqbw1l?si=813f6a6277bc4c70',
 				},
 				{
 					name: 'rap',
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://classroom.google.com/u/0/h',
 				},
 				{
-					name: '.',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ka',
+					link: 'khanacademy.org',
 				},
 				{
 					name: '.',
