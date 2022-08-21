@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Shoow',
+			name: 'Osee',
 			icon: 'youtube',
-			link: 'https://shoow.in',
+			link: 'https://osee.in',
 		},
 	],
 
@@ -139,19 +139,19 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
+					name: 'lofi',
+					link: 'https://open.spotify.com/playlist/0feIKsPtxyMvtlAEY13GDs?si=d468343f5465422b',
+				},
+				{
+					name: 'vibe',
+					link: '',
+				},
+				{
+					name: 'rap',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
+					name: '.',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Meet',
+					name: 'meet',
 					link: 'meet.google.com',
 				},
 				{
-					name: 'Classroom',
+					name: 'classroom',
 					link: 'https://classroom.google.com/u/0/h',
 				},
 				{
-					name: 'blah',
-					link: 'https://www.trello.com',
+					name: '.',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'blah',
-					link: 'https://www.slack.com',
+					name: '.',
+					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 			],
 		},
